@@ -15,5 +15,5 @@ $ brew install carthage
 To integrate SideMenu into your Xcode project using Carthage, specify it in your `Cartfile`:
 
 ```ogdl
-git "http://gitlab.sugarsys.com/datings/iOS/SlideMenu.git"
+git "https://github.com/epodkorytov/SlideMenuController.git"
 ```
